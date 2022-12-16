@@ -36,8 +36,8 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/calisthenic24
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/adrian-d-b4186a1b9/
 
 <!--
