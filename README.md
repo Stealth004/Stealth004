@@ -14,9 +14,10 @@
   - [Banner Grabber Project)](https://github.com/stealth004/)
   
 <h2>📚Certifications</h2> 
-  - <b>UCSD Extended Studies</b><br>
-      <ul><li>Cybersecurity Bootcamp</li></ul>herf="https://github/stealth004")
-    - [Cybersecurity Bootcamp](https://www.github/stealth004/)
+
+- <b>UCSD Extended Studies</b>
+
+  - [Cybersecurity Bootcamp](https://github.com/stealth004/)
   
 
 <h2>📺 Popular YouTube Videos</h2>
