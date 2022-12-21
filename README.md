@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Build, Secure, and Protect a Web Application</b>
-  - [Web Application Project](https://github.com/stealth004/)
+  - [Web Application Project](https://github.com/Stealth004/Web-Application)
 - <b>Exploit Vulnerabilities in Rekall Corporation's Web Application, Linux Servers, and Windows Servers</b>
   - [Penetration Testing Project](https://github.com/stealth004/) <b><i>(Potentially NSFW)</b></i>
 - <b>Building a Security Monitoring Environment</b>
