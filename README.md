@@ -7,7 +7,7 @@
 - <b>Exploit Vulnerabilities in Rekall Corporation's Web Application, Linux Servers, and Windows Servers</b>
   - [Penetration Testing Project](https://github.com/Stealth004/PenetrationTestingProject2/) <b><i>(Potentially NSFW)</b></i>
 - <b>Building a Security Monitoring Environment</b>
-  - [Splunk Project 3](https://github.com/stealth004/)
+  - [Splunk Project 3](https://github.com/Stealth004/Splunk-Project-3/)
   
 - <b>SIEM Tutorial using (Microsoft Sentinel)</b>
   - [Azure Cloud SIEM Project 4)](https://github.com/stealth004/)
