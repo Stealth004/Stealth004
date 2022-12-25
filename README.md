@@ -14,7 +14,7 @@
   - [Banner Grabber Project)](https://github.com/Stealth004/Banner-Grabber/)
   
 - <b> WEBSITE</b>
-  - [Gym Fitness Working Site](https://stealth004.github.io/index.html/)
+  - [Gym Fitness Working Site](https://stealth004.github.io/)
   
 <h2>📚Certifications</h2> 
 
