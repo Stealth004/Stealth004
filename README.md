@@ -21,7 +21,7 @@
 
 - <b>UCSD Extended Studies</b>
 
-  - [Cybersecurity Bootcamp](https://github.com/stealth004/)
+  - [Cybersecurity Bootcamp](https://bootcamp.extension.ucsd.edu/cybersecurity/landing-b5a/?s=Google-Brand&pkw=ucsd%20cyber%20security&pcrid=465682754299&pmt=e&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUC-SAN-DIEGO%7CSEM%7CCYBER%7C-%7COFL%7CTIER-1%7CALL%7CBRD%7CEXACT%7CCore%7CGeneral&utm_term=ucsd%20cyber%20security&s=google&k=ucsd%20cyber%20security&utm_adgroupid=109461234419&utm_locationphysicalms=9061197&utm_matchtype=e&utm_network=g&utm_device=c&utm_content=465682754299&utm_placement=&gclid=CjwKCAiAwc-dBhA7EiwAxPRylP18LJaHtR0anqxUwgNQ8OyB3ibPHI_nEKnfYppNyd-zbhqMI7mfOhoCWEoQAvD_BwE&gclsrc=aw.ds/)
   
 <!---
 <h2>📺 Popular YouTube Videos</h2>
