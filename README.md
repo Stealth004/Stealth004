@@ -13,7 +13,7 @@
   - [Azure Cloud SIEM Project 4)](https://github.com/stealth004/)
   - [Banner Grabber Project)](https://github.com/Stealth004/Banner-Grabber/)
 - <b><strong>CYBER KILL CHAIN</strong></b>
-  - [Cyber Kill Chain](https://github.com/Stealth004/Cyber_kill_chain/)
+  - [Major Ports List](https://github.com/Stealth004/majorportsnportocols/)
 - <b><strong>CYBER KILL CHAIN</strong></b>
   - [Cyber Kill Chain](https://github.com/Stealth004/Cyber_kill_chain/)
 - <b> WEBSITE</b>
